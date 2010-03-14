@@ -1,1 +1,5 @@
 :defaults:
+- public/plugins/yaml_view
+- public/plugins/json_view
+- public/plugins/menu_pipe
+
